@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Júlia!
 - 👀 I’m interested in data science projects
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on data science projects
 - 📫 Reach me at jatamagno@gmail.com
 
 <!---
